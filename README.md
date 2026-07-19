@@ -1,8 +1,10 @@
-# Hello, I am John Becht 👋
+# Hello, I'm John Becht 👋
 
-I'm a technology professional with more than three decades of experience designing, supporting, and documenting enterprise networking and infrastructure solutions. Today I'm expanding my expertise through hands-on projects in virtualization, Docker, cloud networking, and cybersecurity.
+I'm a technology professional with more than three decades of experience designing, supporting, and documenting enterprise networking and infrastructure solutions.
 
-I believe the best infrastructure is not only reliable—it is well documented, repeatable, and easy for others to understand. Every project I build is treated as an opportunity to improve both my technical skills and my documentation practices.
+Today, I'm focused on building practical skills in virtualization, containerization, cloud networking, automation, and cybersecurity through hands-on projects and continuous learning.
+
+I believe great infrastructure is more than technology—it's reliable, secure, well documented, and designed so others can understand, maintain, and improve it. That's the philosophy behind every project I build.
 
 ## Areas of Focus
 
