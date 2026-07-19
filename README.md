@@ -16,15 +16,21 @@ I believe the best infrastructure is not only reliable—it is well documented, 
 
 ## Current Project
 
-🚀 Enterprise Homelab v2
+### 🚀 Enterprise Homelab v2
 
-I'm building and documenting an enterprise-inspired homelab that mirrors production environments. Every service is documented with architecture diagrams, implementation notes, and operational runbooks.
+An enterprise-inspired homelab designed to mirror production environments while documenting every deployment, configuration, and operational procedure.
 
-My goal is simple:
+Current technologies include:
 
-> Build it.
-> Document it.
-> Improve it.
-> Share it.
+- Proxmox VE
+- Docker
+- Cloudflare Zero Trust
+- Tailscale
+- Portainer
+- Homepage
+- Uptime Kuma
+- Beszel
+- Synology NAS
+- Proxmox Backup Server
 
-Thanks for stopping by.
+The long-term goal is to create a fully documented infrastructure portfolio that demonstrates practical enterprise networking, virtualization, monitoring, security, and disaster recovery skills.
