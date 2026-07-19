@@ -1,4 +1,4 @@
-# Hi, I am John Becht 👋
+# Hello, I am John Becht 👋
 
 I'm an Enterprise Infrastructure Engineer with more than three decades of experience helping organizations solve complex networking and technology challenges.
 
