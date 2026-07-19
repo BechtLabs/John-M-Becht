@@ -2,7 +2,7 @@
 
 I'm a technology professional with more than three decades of experience designing, supporting, and documenting enterprise networking and infrastructure solutions. Today I'm expanding my expertise through hands-on projects in virtualization, Docker, cloud networking, and cybersecurity.
 
-Today I'm focused on expanding my expertise in:
+## Areas of Focus
 
 - 🖥️ Proxmox Virtualization
 - 🐳 Docker & Containerization
